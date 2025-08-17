@@ -8,7 +8,7 @@ It shows:
 - Monthly Trend of Revenue vs Expenses  
 
 ## Files
-- [PDF version] (WakasFinanceProject.pdf)
+- [PDF version](WakasFinanceProject.pdf)
 - [POWERBI VERSION](WakasFinanceProject.pbix)
 - [Preview](Screenshot_17-8-2025_62419_.jpeg)
 
