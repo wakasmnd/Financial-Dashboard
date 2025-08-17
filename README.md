@@ -1,6 +1,6 @@
 # Financial Dashboard Project
 
-📊 This is a Finance Dashboard created using Excel / Power BI.  
+📊 This is a Finance Dashboard created using Power BI.  
 It shows:  
 - Total Revenue, Expenses, and Net Profit  
 - Profit Margin Analysis  
