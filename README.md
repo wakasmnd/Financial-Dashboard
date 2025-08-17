@@ -9,7 +9,7 @@ It shows:
 
 ## Files
 - [PDF version](https://github.com/wakasmnd/Financial-Dashboard/blob/main/Wakas%20Finance%20Project.pdf)
-- [POWERBI VERSION](WakasFinanceProject.pbix)
+- [POWERBI VERSION](https://github.com/wakasmnd/Financial-Dashboard/blob/1aead7bd86c9ae42257baae2bfebfd8aa2a507f0/Wakas%20Finance%20Project.pbix)
 - [Preview](Screenshot_17-8-2025_62419_.jpeg)
 
 ## Preview
