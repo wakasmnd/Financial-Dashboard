@@ -8,9 +8,9 @@ It shows:
 - Monthly Trend of Revenue vs Expenses  
 
 ## Files
-- `FinanceDashboard.pdf` → PDF verison
-- `FinanceDashboard.pbix` → Power BI version
-- `Dashboard_Screenshot.png` → Preview
+- `Wakas Finance Project.pdf` → PDF version
+- `Wakas Finance Project.pbix` → Power BI version
+- `Dashboard_Screenshot.jpeg` → Preview
 
 ## Preview
 ![Dashboard Screenshot](Dashboard_Screenshot.png)
