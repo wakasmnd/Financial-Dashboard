@@ -8,8 +8,8 @@ It shows:
 - Monthly Trend of Revenue vs Expenses  
 
 ## Files
-- `WakasFinanceProject.pdf` → PDF version
-- `WakasFinanceProject.pbix` → Power BI version
+- (https://github.com/wakasmnd/Financial-Dashboard/blob/main/Wakas%20Finance%20Project.pbix) → PDF version
+- (https://github.com/wakasmnd/Financial-Dashboard/blob/main/Wakas%20Finance%20Project.pbix) → Power BI version
 - `Dashboard_Screenshot.jpeg` → Preview
 
 ## Preview
